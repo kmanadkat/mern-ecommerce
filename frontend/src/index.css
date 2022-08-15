@@ -21,3 +21,9 @@ code {
 main {
   min-height: 80vh;
 }
+
+.rating span.numReviews {
+  color: #333;
+  font-weight: 400;
+  font-size: 13px;
+}
