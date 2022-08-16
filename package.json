@@ -1,0 +1,28 @@
+{
+	"name": "proshop",
+	"version": "1.0.0",
+	"description": "MERN Shopping App",
+	"main": "server.js",
+	"scripts": {
+		"start": "node backend/server"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kmanadkat/mern-ecommerce.git"
+	},
+	"keywords": [
+		"react",
+		"node",
+		"mongodb",
+		"express"
+	],
+	"author": "Krupesh Anadkat",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kmanadkat/mern-ecommerce/issues"
+	},
+	"homepage": "https://github.com/kmanadkat/mern-ecommerce#readme",
+	"dependencies": {
+		"express": "^4.18.1"
+	}
+}
